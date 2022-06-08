@@ -1,5 +1,5 @@
 # stats
-✔ Accuracy and precision cannot be used interchangeably, the former being true to intention while the latter is true to itself. 
+✔ Accuracy and precision cannot be used interchangeably, the former being true to intention (degree of closeness of measured value to true value) while the latter is true to itself (degree of closeness of repeated measured values)
 
 ✔ Probability and likelihood are different terms; the former is finding the chance of outcomes given a data distribution, the latter is finding the most likely distribution given the outcomes. 
 
