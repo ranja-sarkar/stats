@@ -1,4 +1,8 @@
 # stats
+✔ Accuracy and precision cannot be used interchangeably, the former being true to intention while the latter is true to itself. 
+
+✔ Probability and likelihood are different terms; the former is finding the chance of outcomes given a data distribution, the latter is finding the most likely distribution given the outcomes. 
+
 
 DESCRIPTIVE STATISTICS: Inference of the smaller sample data;
 INFERENTIAL STATISTICS: Inference about the larger population
