@@ -1,7 +1,5 @@
 
 Some important links:
-https://ruder.io/optimizing-gradient-descent/
-  
 	https://www.kdnuggets.com/2019/11/math-behind-bayes.html
 	https://github.com/raphaelvallat/pingouin
 	https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb
