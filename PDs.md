@@ -20,10 +20,10 @@ Some important links:
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
 1) Bernoulli distribution (single trial)
 
-2) Binomial distribution (n identical trials)
+2) Binomial distribution (n identical trials) - 2 outcomes 
 ![image](https://user-images.githubusercontent.com/101544669/172357617-c12a8dd8-f094-4220-a1af-7cccb4aca46e.png)
 
-3) Poisson distribution (large number of rare events)
+3) Poisson distribution (large number of rare events) - unlimited outcomes 
 
 
 **CONTINUOUS PROBABILITY DISTRIBUTIONS (PDs)**
@@ -39,13 +39,13 @@ Some important links:
 ![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
 
 
-LINEAR REGRESSION
+**LINEAR REGRESSION**
 
 ![image](https://user-images.githubusercontent.com/101544669/172360437-79410e56-8280-4cef-a715-86d4f12c7449.png)
 
 ![image](https://user-images.githubusercontent.com/101544669/172360515-38ee090f-1a75-44f8-aad8-cd12286776c1.png)
 
-MULTIPLE LINEAR REGRESSION
+**MULTIPLE LINEAR REGRESSION**
 
 ![image](https://user-images.githubusercontent.com/101544669/172360599-7f660c2b-3818-4051-b763-a743316add2b.png)
 
