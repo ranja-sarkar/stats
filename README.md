@@ -17,6 +17,8 @@
 **Non-parametric test** (no assumption of data):
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
+<img width="524" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/37d2c1d3-9ef1-4c85-b2e8-164d13b63013">
+
 	
 **MEASURES OF CENTRAL TENDENCY**
 
