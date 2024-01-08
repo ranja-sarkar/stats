@@ -4,16 +4,8 @@ Some important links:
 	https://www.kdnuggets.com/2019/11/math-behind-bayes.html
 	https://github.com/raphaelvallat/pingouin
 	https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb
-	https://scikit-learn.org/
-	https://towardsdatascience.com/bayesian-strategy-for-modeling-retail-price-with-pystan-fd0571ed778
 	https://machinelearningmastery.com/monte-carlo-sampling-for-probability/
-	https://towardsdatascience.com/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c
-	https://towardsdatascience.com/monte-carlo-integration-in-python-over-univariate-and-multivariate-functions-12615dd252fa
-	https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782
 	https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
-	https://towardsdatascience.com/stochastic-processes-analysis-f0a116999e4
-	https://towardsdatascience.com/a-gentle-introduction-to-monte-carlo-methods-98451674018d
-	
 
 **DISCRETE PROBABILITY DISTRIBUTIONS (PDs)**
 
