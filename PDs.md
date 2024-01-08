@@ -15,7 +15,7 @@ Some important links:
 	https://towardsdatascience.com/a-gentle-introduction-to-monte-carlo-methods-98451674018d
 	
 
-DISCRETE PROBABILITY DISTRIBUTIONS
+**DISCRETE PROBABILITY DISTRIBUTIONS (PDs)**
 
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
 1) Bernoulli distribution (single trial)
@@ -26,7 +26,7 @@ DISCRETE PROBABILITY DISTRIBUTIONS
 3) Poisson distribution (large number of rare events)
 
 
-CONTINUOUS PROBABILITY DISTRIBUTIONS
+**CONTINUOUS PROBABILITY DISTRIBUTIONS (PDs)**
 
 1) Uniform distribution (outcomes equally likely)
 
@@ -38,10 +38,6 @@ CONTINUOUS PROBABILITY DISTRIBUTIONS
 3) Exponential distribution (continuous and independent events in a time interval)
 ![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
 
-
-HYPOTHESIS TESTING
-
-![image](https://user-images.githubusercontent.com/101544669/172359408-6bd474f0-1906-43e1-bf15-5197aa05771b.png)
 
 LINEAR REGRESSION
 
