@@ -30,8 +30,8 @@
 
 ![image](https://user-images.githubusercontent.com/101544669/172352049-a691a986-560c-42fe-bae3-cd4fa899a38f.png)
 
-**MEASURES OF DISPERSION**: Range, quartile deviation, interquartile range [quartile deviation is half of the interquartile range]
-			Variance, standard deviation
+**MEASURES OF DISPERSION**: Range, quartile deviation and interquartile range (quartile deviation is half of the interquartile range),
+			variance, standard deviation
 			
 ![image](https://user-images.githubusercontent.com/101544669/172353525-d1b2bcf0-ff6c-42bc-99e6-db6c3edb1e2f.png)
 
