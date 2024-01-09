@@ -10,19 +10,27 @@
 
 ![compare data](https://user-images.githubusercontent.com/101544669/172348686-3f5f25a9-f015-4155-8f0e-9bdf2c7fd77b.png)
 
-**Parametric test** (normal distribution assumption of data):
+**Parametric test**:-
+
+Assumption: Data has normal distribution
+
 ![image](https://user-images.githubusercontent.com/101544669/172365078-9c820e5f-6a23-4d56-acc3-2ee9df161792.png)
 
 
-**Non-parametric test** (no assumption of data):
+**Non-parametric test**:-
+
+Assumption: No
+
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
-**HYPOTHESIS TESTS**
+
+**HYPOTHESIS TESTS**: 
+Depending on datatypes and data sample, hypothesis testing is carried out. 
+
 <img width="524" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/37d2c1d3-9ef1-4c85-b2e8-164d13b63013">
 
-	
-**MEASURES OF CENTRAL TENDENCY**
 
+**MEASURES OF CENTRAL TENDENCY**
 ![data](https://user-images.githubusercontent.com/101544669/172350887-e9527614-3737-4ad0-99af-868333c2f6aa.png)
 
 ![image](https://user-images.githubusercontent.com/101544669/172351517-74e016c6-709e-47b4-bf01-299afad8e25f.png)
