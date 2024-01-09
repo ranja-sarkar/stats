@@ -27,7 +27,10 @@ Assumption: No
 **HYPOTHESIS TESTS**: 
 Depending on datatypes and data sample, hypothesis testing is carried out. 
 
-<img width="524" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/37d2c1d3-9ef1-4c85-b2e8-164d13b63013">
+<img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
+
+For more: https://en.wikipedia.org/wiki/F-test
+          https://en.wikipedia.org/wiki/Analysis_of_variance
 
 
 **MEASURES OF CENTRAL TENDENCY**
