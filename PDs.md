@@ -10,8 +10,10 @@ Some important links:
 **DISCRETE PROBABILITY DISTRIBUTIONS (PDs)**
 
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
-1) Bernoulli distribution (single trial)
-
+1) Bernoulli distribution (single trial with 2 possible outcomes)
+ - If X is the random variable defining the outcome of the trial and p is the probability of success (of 1 outcome), it follows a distribution X ~ Bernoulli(p, p(1-p))
+ - where p is the mean and p(1-p) is the variance
+   
 2) Binomial distribution (n identical trials) - 2 outcomes 
 ![image](https://user-images.githubusercontent.com/101544669/172357617-c12a8dd8-f094-4220-a1af-7cccb4aca46e.png)
 
