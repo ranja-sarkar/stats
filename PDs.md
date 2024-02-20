@@ -14,11 +14,14 @@ Some important links:
  - If X is the random variable defining the outcome of the trial and p is the probability of success (of 1 outcome), it follows a distribution X ~ Bernoulli(p, p(1-p))
  - where p is the mean and p(1-p) is the variance
    
-2) Binomial distribution (n identical trials) - 2 outcomes 
+2) Binomial distribution (n identical trials with 2 possible outcomes in each)
+   - X ~ Binomial(np, np(1-p))
+     where this distribution can be thought of as multiple independent Bernoulli trials
+       
 ![image](https://user-images.githubusercontent.com/101544669/172357617-c12a8dd8-f094-4220-a1af-7cccb4aca46e.png)
 
-3) Poisson distribution (large number of rare events) - unlimited outcomes 
-
+4) Poisson distribution (large number of rare events with unlimited outcomes)
+	X ~ Poisson(l) where l is both mean and variance of unlimited occurrences
 
 **CONTINUOUS PROBABILITY DISTRIBUTIONS (PDs)**
 
