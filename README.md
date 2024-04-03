@@ -29,8 +29,7 @@ Depending on datatypes and data sample, hypothesis testing is carried out.
 
 <img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
 
-Numerical or quantitative data can be either **discrete** or **continuous**.
-Categorical or qualitative data can be either **nominal** or **ordinal**.
+There's a data classification based on privacy, security, risk management and regulatory compliance: public, confidential, restructed and internal data. 
 
 For more: https://en.wikipedia.org/wiki/F-test
           https://en.wikipedia.org/wiki/Analysis_of_variance
