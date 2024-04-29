@@ -8,7 +8,10 @@
 
 **INFERENTIAL STATISTICS**: For inference of the larger population
 
-![compare data](https://user-images.githubusercontent.com/101544669/172348686-3f5f25a9-f015-4155-8f0e-9bdf2c7fd77b.png)
+Depending on your goal and the datatype (parametric or non-parametric), you select a **test**.
+If the goal is to quantify an association between two groups, we check **Pearson correlation** for parametric data, **Spearman correlation** for non-parametric data.
+If the goal is to predict a target from one or more variables, we perform **simple regression** (one variable) and **multiple regression** (more than two variables) for parametric data. 
+If we have to compare unpaired (independent) groups, we perform unpaired **T-test** (or one-way **ANOVA** for 2+ groups) for parametric data, and **Mann-Whitney test** (2 groups) for non-parametric data. 
 
 **Parametric test**:-
 
