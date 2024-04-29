@@ -1,8 +1,12 @@
 
-**Statistical package in python (pandas-based)**: https://github.com/raphaelvallat/pingouin
-**Markov Chain**: https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb
+**Statistical package in python (pandas-based)**: https://github.com/raphaelvallat/pingouin/
+
+**Markov Chain**: https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb/
+
 **Monte-Carlo Sampling**: https://machinelearningmastery.com/monte-carlo-sampling-for-probability/
+
 **MCMC**: https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
+
 
 **DISCRETE PROBABILITY DISTRIBUTIONS**
 
@@ -39,7 +43,8 @@
 
 
 
-**LINEAR REGRESSION**
+
+**Understanding slope, intercept and error terms in LINEAR REGRESSION**
 
 ![image](https://user-images.githubusercontent.com/101544669/172360437-79410e56-8280-4cef-a715-86d4f12c7449.png)
 
