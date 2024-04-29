@@ -19,7 +19,7 @@ Assumption: Data has normal distribution
 
 **Non-parametric test**:-
 
-Assumption: No
+No assumption
 
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
