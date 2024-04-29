@@ -59,3 +59,12 @@ For more: https://en.wikipedia.org/wiki/F-test
 
 ![image](https://user-images.githubusercontent.com/101544669/172354769-82567b68-536e-449a-9733-3e1b4ab6c90c.png)
 
+**Statistical models**:
+
+Discriminative (L) and Generative (R)
+
+<img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
+
+
+
+
