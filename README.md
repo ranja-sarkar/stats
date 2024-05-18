@@ -48,6 +48,8 @@ For more: https://en.wikipedia.org/wiki/F-test
 
 ![image](https://user-images.githubusercontent.com/101544669/172352049-a691a986-560c-42fe-bae3-cd4fa899a38f.png)
 
+There are **power transformations** that variables need to undergo if they follow either right-skewed or left-skewed distributions.
+
 **MEASURES OF DISPERSION**: Range, quartile deviation and interquartile range (quartile deviation is half of the interquartile range),
 			variance, standard deviation
 			
