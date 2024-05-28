@@ -23,6 +23,8 @@
 
 4) **Poisson distribution** (large number of rare events with unlimited outcomes)
 	X ~ Poisson(l) where l is both mean and variance of unlimited occurrences
+https://mathworld.wolfram.com/PoissonDistribution.html
+
 
 **CONTINUOUS PROBABILITY DISTRIBUTIONS**
 
