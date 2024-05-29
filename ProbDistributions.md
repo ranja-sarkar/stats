@@ -35,6 +35,7 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 
 ![image](https://user-images.githubusercontent.com/101544669/172358474-b1997aed-d0e4-482a-a09b-2355dfb693c2.png)
 
+![boxplot](https://github.com/ranja-sarkar/stats/assets/101544669/49ed0ab5-69ed-47f2-bc49-b7e19fcf6e42)
 
 3) **Exponential distribution** (continuous and independent events in a time interval)
 ![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
