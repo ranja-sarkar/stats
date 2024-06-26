@@ -44,6 +44,10 @@ For more: https://en.wikipedia.org/wiki/F-test
 
 ![image](https://user-images.githubusercontent.com/101544669/172351517-74e016c6-709e-47b4-bf01-299afad8e25f.png)
 
+**Mode**:  Number that occurs most often in a dataset.
+
+**Median**: Middle number/value when a dataset is ordered from least to greatest.
+
 ![image](https://user-images.githubusercontent.com/101544669/172351874-c889ca8b-c52b-493d-bebe-9e19ca12820e.png)
 
 ![image](https://user-images.githubusercontent.com/101544669/172352049-a691a986-560c-42fe-bae3-cd4fa899a38f.png)
