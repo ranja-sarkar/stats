@@ -4,9 +4,9 @@
 ✔ **Probability** and **likelihood** are different terms; the former is finding the chance of outcomes given a data distribution, the latter is finding the most likely distribution given the outcomes. 
 
 
-**DESCRIPTIVE STATISTICS**: For inference of the smaller sample data
+**DESCRIPTIVE STATISTICS**: For inference of (smaller) sample data
 
-**INFERENTIAL STATISTICS**: For inference of the larger population
+**INFERENTIAL STATISTICS**: For inference of (larger) population
 
 Depending on your goal and the datatype (parametric or non-parametric), you select a **test**.
 
