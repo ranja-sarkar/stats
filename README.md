@@ -64,7 +64,7 @@ There're 2 popular approaches for automatic power transforms:
 •	Box-Cox Transform
 •	Yeo-Johnson Transform 
 
-They find a parameter (lambda) that best transforms a variable to a Gaussian distribution for example, lambda = -1 is a reciprocal transform, lambda = 0 is a log transform, lambda = 0.5 is a square root transform.
+They find a parameter (lambda) that best transforms a variable for example, lambda = -1 is a reciprocal transform, lambda = 0 is a log transform, lambda = 0.5 is a square root transform.
 
 
 **MEASURES OF DISPERSION**: Range, quartile deviation and interquartile range (quartile deviation is half of the interquartile range),
@@ -74,7 +74,7 @@ They find a parameter (lambda) that best transforms a variable to a Gaussian dis
 
 ![image](https://user-images.githubusercontent.com/101544669/172354301-b62ea3b6-bc64-4f8f-bc65-58cb7b5d5f90.png)
 
-At this point, it is mentionworthy that the **standard error** of a sample mean is an estimate of how far the sample mean is likely to be from a population mean, whereas the **standard deviation** of the sample is the degree to which individuals within the sample differ from the sample mean. Hence, **standard error** and **standard deviation** are different terms.
+✅ It is mentionworthy that the **standard error** of a sample mean is an estimate of how far the sample mean is likely to be from a population mean, whereas the **standard deviation** of the sample is the degree to which individuals within the sample differ from the sample mean. Hence, **standard error** and **standard deviation** are different terms.
 
 For more: https://en.wikipedia.org/wiki/Standard_error
 
