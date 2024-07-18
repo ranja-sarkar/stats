@@ -9,8 +9,13 @@
 **INFERENTIAL STATISTICS**: For inference of (larger) population
 
 **CENTRAL LIMIT THEOREM**
-The central limit theorem states that, given a sufficiently large sample size, the sampling distribution of the mean for a variable approximateS a normal distribution regardless of that variable’s distribution in the population.
+The central limit theorem (CLT) states that, given a sufficiently large sample size, the sampling distribution of the mean for a variable approximateS a normal distribution regardless of that variable’s distribution in the population.
 
+CLT is vital for two reasons — the normality assumption and the precision of the estimates.
+
+The normality assumption is vital for parametric hypothesis tests of the mean. Consequently, you might think that these tests are not valid when the data are non-normally distributed. However, if your sample size is large enough, CLT kicks in and produces sampling distributions that approximate a normal distribution. This fact allows you to use these hypothesis tests even when your data are non-normally distributed as long as your sample size is large enough.
+
+The 'precision of estimates' property of CLT becomes relevant when using a sample to estimate the mean of an entire population. With a larger sample size, your sample mean is more likely to be close to the real population mean. In other words, your estimate is more precise.
 
 Depending on your goal and the data, you select a **test**.
 
@@ -33,7 +38,7 @@ No assumption
 
 
 **HYPOTHESIS TESTS**: 
-Depending on datatypes and data sample, hypothesis testing is carried out. 
+Depending on datatypes and number of samples, hypothesis testing is carried out. 
 
 <img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
 
