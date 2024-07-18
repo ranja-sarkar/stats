@@ -8,7 +8,11 @@
 
 **INFERENTIAL STATISTICS**: For inference of (larger) population
 
-Depending on your goal and the datatype (parametric or non-parametric), you select a **test**.
+**CENTRAL LIMIT THEOREM**
+The central limit theorem states that, given a sufficiently large sample size, the sampling distribution of the mean for a variable approximateS a normal distribution regardless of that variable’s distribution in the population.
+
+
+Depending on your goal and the data, you select a **test**.
 
 If the goal is to quantify an association between two groups, we check **Pearson correlation** for parametric data, **Spearman correlation** for non-parametric data.
 If the goal is to predict a target from one or more variables, we perform **simple regression** (two variables) and **multiple regression** (more than two variables) for parametric data. 
