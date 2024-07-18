@@ -16,7 +16,7 @@ If we have to compare unpaired (independent) groups, we perform unpaired **T-tes
 
 **Parametric test**:-
 
-Assumption: Data has normal distribution
+Assumption: Data has normal distribution <https://en.wikipedia.org/wiki/Normal_distribution>
 
 ![image](https://user-images.githubusercontent.com/101544669/172365078-9c820e5f-6a23-4d56-acc3-2ee9df161792.png)
 
