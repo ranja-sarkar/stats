@@ -57,7 +57,13 @@ A violin plot shows the shape (density distribution) of data which boxplot does 
 <img width="214" alt="vp" src="https://github.com/ranja-sarkar/stats/assets/101544669/eb349bbc-acf3-47e8-ab49-dea45666401e">
 
 
-There are **power transformations** that variables need to undergo if they follow either right-skewed or left-skewed distributions.
+There are **power transformations** that variables need to undergo if they follow either right-skewed or left-skewed distributions. Parametric machine learning models like linear regression assume real-valued variables in the input data have Gaussian distributions. Non-parametric models like kNN do not have this assumption, yet often are more reliable and perform better when the input variables have Gaussian distributions. As such, variables with skewed distributions (Gaussian-like) or different distributions altogether need transformation. Power transforms refer to a class of techniques utilizing a power function (like logarithm or exponent) to make the probability distribution of a variable Gaussian. 
+
+There're 2 popular approaches for such automatic power transforms:
+•	Box-Cox Transform
+•	Yeo-Johnson Transform 
+They find a parameter (lambda) that best transforms a variable to a Gaussian distribution for example, lambda = -1 is a reciprocal transform, lambda = 0 is a log transform, lambda = 0.5 is a square root transform.
+
 
 **MEASURES OF DISPERSION**: Range, quartile deviation and interquartile range (quartile deviation is half of the interquartile range),
 			variance, standard deviation
