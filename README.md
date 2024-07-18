@@ -72,6 +72,11 @@ They find a parameter (lambda) that best transforms a variable to a Gaussian dis
 
 ![image](https://user-images.githubusercontent.com/101544669/172354301-b62ea3b6-bc64-4f8f-bc65-58cb7b5d5f90.png)
 
+At this point, it is mentionworthy that the **standard error** of a sample mean is an estimate of how far the sample mean is likely to be from a population mean, whereas the **standard deviation** of the sample is the degree to which individuals within the sample differ from the sample mean.
+
+For more: https://en.wikipedia.org/wiki/Standard_error
+
+
 ![image](https://user-images.githubusercontent.com/101544669/172354401-9403bc08-05e5-4316-9174-39aaf0ef1eab.png)
 
 ![image](https://user-images.githubusercontent.com/101544669/172354769-82567b68-536e-449a-9733-3e1b4ab6c90c.png)
