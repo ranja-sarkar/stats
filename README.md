@@ -40,6 +40,10 @@ No assumption
 **HYPOTHESIS TESTS**: 
 Depending on datatypes and number of samples, hypothesis testing is carried out. 
 
+Traditional testing is called Non-Bayesian. It is how often an outcome happens over repeated runs (repeat sampling) of the experiment. It’s an objective view of whether an experiment is repeatable.
+**Bayesian hypothesis testing** is a subjective view of the same - it takes into account how much faith you have in your results. It includes prior knowledge about the data and personal beliefs about the results.
+
+
 <img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
 
 There's a data classification based on privacy, security, risk management and regulatory compliance: public, confidential, restricted and internal. 
