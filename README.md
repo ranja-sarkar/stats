@@ -72,6 +72,8 @@ A violin plot shows the shape (density distribution) of data which boxplot does 
 
 There are **power transformations** that variables need to undergo if they follow either right-skewed or left-skewed distributions. Parametric machine learning models like linear regression assume real-valued variables in the input data have Gaussian distributions. Non-parametric models like kNN do not have this assumption, yet often are more reliable and perform better when the input variables have Gaussian distributions. As such, variables with skewed distributions (Gaussian-like) or different distributions altogether need transformation. Power transforms refer to a class of techniques utilizing a power function (like logarithm or exponent) to make the probability distribution of a variable Gaussian. 
 
+Gaussian (normal) distribution: https://ranjas.substack.com/p/why-the-gaussian
+
 There're 2 popular approaches for automatic power transforms:
 
 •	Box-Cox Transform
