@@ -9,7 +9,7 @@
 **INFERENTIAL STATISTICS**: For inference of (larger) population
 
 **CENTRAL LIMIT THEOREM**
-The central limit theorem (CLT) states that, given a sufficiently large sample size, the sampling distribution of the mean for a variable approximateS a normal distribution regardless of that variable’s distribution in the population.
+The central limit theorem (CLT) states that, given a sufficiently large sample size, the sampling distribution of the mean for a variable approximates a normal distribution regardless of that variable’s distribution in the population.
 
 CLT is vital for two reasons — the normality assumption and the precision of the estimates.
 
