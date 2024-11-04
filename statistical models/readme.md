@@ -9,7 +9,7 @@ What's learned With a generative algorithm is the probability distribution of da
 <img width="385" alt="5" src="https://github.com/user-attachments/assets/bcf6bbba-3972-4d52-aec1-613f4b3b85fc">
 
 
-Example ->
+**Examples** of the statistical models:
 
 <img width="394" alt="1" src="https://github.com/user-attachments/assets/01e70faa-ae86-4a16-aee8-f63632fe1264">
 
