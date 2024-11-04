@@ -13,7 +13,7 @@ Example ->
 <img width="394" alt="1" src="https://github.com/user-attachments/assets/01e70faa-ae86-4a16-aee8-f63632fe1264">
 
 
-Discriminative classifiers assume a functional form of P(y|X) and estimate the parameters from input data.
+**Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data.
 
 P(X) and P(y) are known as prior probability and marginal probability.
 
@@ -21,5 +21,6 @@ P(X) and P(y) are known as prior probability and marginal probability.
 
 
 
-Generative classifiers estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability.
+**Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability.
 
+<img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
