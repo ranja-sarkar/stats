@@ -4,7 +4,10 @@
 <img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
 
-Example -
+Example ->
+
+<img width="394" alt="1" src="https://github.com/user-attachments/assets/01e70faa-ae86-4a16-aee8-f63632fe1264">
+
 
 Discriminative classifiers assume a functional form of P(y|X) and estimate the parameters from input data.
 
