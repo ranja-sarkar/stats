@@ -24,3 +24,9 @@ P(X) and P(y) are known as prior probability and marginal probability.
 **Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability.
 
 <img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
+
+
+<img width="475" alt="3" src="https://github.com/user-attachments/assets/98bc8638-16c8-4589-8bb5-5fc35afe03b7">
+
+
+
