@@ -19,12 +19,13 @@ P(X) and P(y) are known as prior probability and marginal probability.
 
 <img width="477" alt="1" src="https://github.com/user-attachments/assets/0e6c1caa-c628-4be6-b34f-7bf3b06402b4">
 
-
+Discriminative models are effective for supervised deep learning tasks like CNNs (image recognition, computer vision) and RNNs (time-series analysis, NLP).  
 
 **Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability.
 
 <img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
 
+These models understand how data is embedded in space. Algorithms like autoencoder, Boltzmann machine, and self-organizing maps are popular unsupervised deep learning algorithms which make use of generative models for tasks like exploratory data analysis of high dimensional datasets, image denoising, image compression, anomaly detection and generating new images.
 
 <img width="475" alt="3" src="https://github.com/user-attachments/assets/98bc8638-16c8-4589-8bb5-5fc35afe03b7">
 
