@@ -15,9 +15,11 @@ Example ->
 
 Discriminative classifiers assume a functional form of P(y|X) and estimate the parameters from input data.
 
-P(X) == prior probability
+P(X) and P(y) are known as prior probability and marginal probability.
 
-P(y) == marginal probability
+<img width="477" alt="1" src="https://github.com/user-attachments/assets/0e6c1caa-c628-4be6-b34f-7bf3b06402b4">
+
+
 
 Generative classifiers estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability.
 
