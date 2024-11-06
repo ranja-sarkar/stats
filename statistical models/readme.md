@@ -30,5 +30,7 @@ These models understand how data is embedded in space. Autoencoder, Boltzmann ma
 
 <img width="475" alt="3" src="https://github.com/user-attachments/assets/98bc8638-16c8-4589-8bb5-5fc35afe03b7">
 
+Probability modeling involves the quantification of tendencies and usually addresses the real project goals. Read more about it here:
+https://www.fharrell.com/post/classification/
 
 
