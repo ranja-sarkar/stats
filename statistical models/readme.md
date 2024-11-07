@@ -6,9 +6,12 @@ Discriminative models leverage conditional probability distributions while gener
 <img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
 What's learned with a discriminative algorithm is the decision boundary (left of below figure) dividing the data space. 
+
 What's learned With a generative algorithm is the probability distribution of data (right of below figure). 
 
 <img width="385" alt="5" src="https://github.com/user-attachments/assets/bcf6bbba-3972-4d52-aec1-613f4b3b85fc">
+
+For more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
 
 **Examples** of **statistical models**:
