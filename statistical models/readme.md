@@ -13,6 +13,11 @@ What's learned With a generative algorithm is the probability distribution of da
 
 For more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
+The most influential factor in the specific approach or model used in a statistical analysis is the driving question, the one we try to answer with our analysis.
+
+Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
+
+
 
 **Examples** of **statistical models**:
 
