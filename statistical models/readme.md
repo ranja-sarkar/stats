@@ -13,10 +13,13 @@ What's learned With a generative algorithm is the probability distribution of da
 
 <img width="385" alt="5" src="https://github.com/user-attachments/assets/bcf6bbba-3972-4d52-aec1-613f4b3b85fc">
 
-"There are 2 general ways to build statistical hashtag#models - 
-i) model-based approach, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular hashtag#data
-ii) design-based approach, where the hashtag#probability calculations are based on the randomization used in the investigation/experiment. 
+"There are 2 general ways to build statistical models - 
+
+i) model-based approach, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular data, 
+ii) design-based approach, where the probability calculations are based on the randomization used in the investigation/experiment. 
+
 The fundamentals of Bayes theorem have no opinion on which way is utilized and can be used in both the approaches."
+
 For more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
 In unsupervised learning and/or supervised learning (specific approach or model used), the most influential factor in a statistical analysis is the driving question, the one we try to answer with our analysis.
