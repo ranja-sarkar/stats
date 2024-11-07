@@ -3,6 +3,8 @@ All **statistical models** can be widely divided into **discriminative** and **g
 
 Discriminative models leverage conditional probability distributions while generative ones leverage non-conditional (joint) distributions.
 
+Note: P(X) and P(y) are known as prior probability and marginal probability. 
+
 <img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
 What's learned with a discriminative algorithm is the decision boundary (left of below figure) dividing the data space. 
@@ -11,6 +13,10 @@ What's learned With a generative algorithm is the probability distribution of da
 
 <img width="385" alt="5" src="https://github.com/user-attachments/assets/bcf6bbba-3972-4d52-aec1-613f4b3b85fc">
 
+"There are 2 general ways to build statistical hashtag#models - 
+i) model-based approach, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular hashtag#data
+ii) design-based approach, where the hashtag#probability calculations are based on the randomization used in the investigation/experiment. 
+The fundamentals of Bayes theorem have no opinion on which way is utilized and can be used in both the approaches."
 For more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
 In unsupervised learning and/or supervised learning (specific approach or model used), the most influential factor in a statistical analysis is the driving question, the one we try to answer with our analysis.
@@ -25,13 +31,6 @@ Improving statistical inferences by asking the right statistical question: https
 
 
 **Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data.
-
-P(X) and P(y) are known as prior probability and marginal probability. 
-
-"There are 2 general ways to build statistical hashtag#models - 
-i) model-based approach, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular hashtag#data
-ii) design-based approach, where the hashtag#probability calculations are based on the randomization used in the investigation/experiment. 
-The fundamentals of Bayes theorem have no opinion on which way is utilized and can be used in both the approaches."
 
 <img width="477" alt="1" src="https://github.com/user-attachments/assets/0e6c1caa-c628-4be6-b34f-7bf3b06402b4">
 
