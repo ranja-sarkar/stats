@@ -26,7 +26,12 @@ Improving statistical inferences by asking the right statistical question: https
 
 **Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data.
 
-P(X) and P(y) are known as prior probability and marginal probability.
+P(X) and P(y) are known as prior probability and marginal probability. 
+
+"There are 2 general ways to build statistical hashtag#models - 
+i) model-based approach, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular hashtag#data
+ii) design-based approach, where the hashtag#probability calculations are based on the randomization used in the investigation/experiment. 
+The fundamentals of Bayes theorem have no opinion on which way is utilized and can be used in both the approaches."
 
 <img width="477" alt="1" src="https://github.com/user-attachments/assets/0e6c1caa-c628-4be6-b34f-7bf3b06402b4">
 
