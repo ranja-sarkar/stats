@@ -5,9 +5,7 @@ Note: P(X) and P(y) are known as prior probability and marginal probability.
 
 <img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
-What is learned with a discriminative algorithm is the decision boundary, dividing the data space. 
-
-What is learned with a generative algorithm is the probability distribution of data. 
+What is learned with a discriminative algorithm is the decision boundary, dividing the data space. What is learned with a generative algorithm is the probability distribution of data. 
 
 
 There are 2 general ways to build statistical models viz., 
@@ -16,7 +14,7 @@ There are 2 general ways to build statistical models viz.,
 
 **ii) design-based approach**, where the probability calculations are based on the randomization used in the investigation/experiment. 
 
-The fundamentals of Bayes theorem have no opinion on which way is utilized and can be used in both the approaches.
+**The fundamentals of Bayes theorem have no opinion on which way is utilized, and can be used in both the approaches.**
 
 For more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
@@ -24,7 +22,6 @@ In unsupervised learning and/or supervised learning or in general in a statistic
 
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
 
-<https://github.com/ranja-sarkar/stats/blob/464fa2f9f6950700f7e44e7effabdd101b077ad6/statistical%20models/2.png>
 
 **Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data. Logistic regression (supervised machine learning) is perhaps the best example of a discriminative model. 
 
