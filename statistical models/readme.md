@@ -11,7 +11,7 @@ What is learned with a discriminative algorithm is the decision boundary, dividi
 
 What is learned With a generative algorithm is the probability distribution of data. 
 
-"C:\Users\Ranja\Desktop\2.png"
+statistical models/2.png
 
 There are 2 general ways to build statistical models viz., 
 
