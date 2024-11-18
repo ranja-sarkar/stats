@@ -11,7 +11,7 @@ What is learned with a discriminative algorithm is the decision boundary, dividi
 
 What is learned With a generative algorithm is the probability distribution of data. 
 
-
+"C:\Users\Ranja\Desktop\2.png"
 
 There are 2 general ways to build statistical models viz., 
 
@@ -34,7 +34,7 @@ Improving statistical inferences by asking the right statistical question: https
 <img width="394" alt="1" src="https://github.com/user-attachments/assets/01e70faa-ae86-4a16-aee8-f63632fe1264">
 
 
-**Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data.
+**Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data. Logistic regression is perhaps the best example of a discriminative model. 
 
 <img width="477" alt="1" src="https://github.com/user-attachments/assets/0e6c1caa-c628-4be6-b34f-7bf3b06402b4">
 
