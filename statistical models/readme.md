@@ -9,6 +9,7 @@ What is learned with a discriminative algorithm is the decision boundary, dividi
 
 What is learned with a generative algorithm is the probability distribution of data. 
 
+
 There are 2 general ways to build statistical models viz., 
 
 **i) model-based approach**, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular data,
@@ -31,7 +32,7 @@ Improving statistical inferences by asking the right statistical question: https
 
 These models are also effective for (supervised) deep learning tasks like CNNs (image recognition, computer vision) and RNNs (time-series analysis, NLP).  
 
-**Generative models** estimate parameters from the data giiveven a likelihood function and use the Bayes’ theorem to calculate the posterior probability. **GAN** is the best example of a generative model, wherein the generative subnetwork generates new data points (new probability distribution) and the discriminator classifies them into real or fake. 
+**Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability (see formula below). **GAN** is the best example of a generative model, wherein the generative subnetwork generates new data points (new probability distribution) and the discriminator classifies them into real or fake. 
 
 <img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
 
