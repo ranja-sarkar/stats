@@ -9,9 +9,7 @@ Note: P(X) and P(y) are known as prior probability and marginal probability.
 
 What is learned with a discriminative algorithm is the decision boundary, dividing the data space. 
 
-What is learned With a generative algorithm is the probability distribution of data. 
-
-https://github.com/ranja-sarkar/stats/blob/464fa2f9f6950700f7e44e7effabdd101b077ad6/statistical%20models/2.png
+What is learned with a generative algorithm is the probability distribution of data. 
 
 There are 2 general ways to build statistical models viz., 
 
@@ -28,10 +26,7 @@ In unsupervised learning and/or supervised learning or in general in a statistic
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
 
 
-
-**Examples** of statistical models:
-
-<img width="394" alt="1" src="https://github.com/user-attachments/assets/01e70faa-ae86-4a16-aee8-f63632fe1264">
+<https://github.com/ranja-sarkar/stats/blob/464fa2f9f6950700f7e44e7effabdd101b077ad6/statistical%20models/2.png>
 
 
 **Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data. Logistic regression is perhaps the best example of a discriminative model. 
