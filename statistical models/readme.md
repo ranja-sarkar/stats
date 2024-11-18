@@ -1,7 +1,7 @@
 
 All **statistical models** can be widely divided into **discriminative** and **generative** models. 
 
-Discriminative models leverage conditional probability distributions while generative ones leverage non-conditional (joint) distributions.
+Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**.
 
 Note: P(X) and P(y) are known as prior probability and marginal probability. 
 
@@ -15,8 +15,9 @@ What's learned With a generative algorithm is the probability distribution of da
 
 "There are 2 general ways to build statistical models - 
 
-i) model-based approach, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular data, 
-ii) design-based approach, where the probability calculations are based on the randomization used in the investigation/experiment. 
+**i) model-based approach**, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular data,
+
+**ii) design-based approach**, where the probability calculations are based on the randomization used in the investigation/experiment. 
 
 The fundamentals of Bayes theorem have no opinion on which way is utilized and can be used in both the approaches."
 
