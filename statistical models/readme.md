@@ -23,7 +23,7 @@ The fundamentals of Bayes theorem have no opinion on which way is utilized and c
 
 For more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
-In unsupervised learning and/or supervised learning (specific approach or model used), the most influential factor in a statistical analysis is the driving question, the one we try to answer with our analysis.
+In unsupervised learning and/or supervised learning or in general, a statistical analysis, the most influential factor is the driving question which the one we try to answer with our analysis.
 
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
 
