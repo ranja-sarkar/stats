@@ -40,7 +40,7 @@ Improving statistical inferences by asking the right statistical question: https
 
 These models are also effective for (supervised) deep learning tasks like CNNs (image recognition, computer vision) and RNNs (time-series analysis, NLP).  
 
-**Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability.
+**Generative models** estimate parameters from the data giiveven a likelihood function and use the Bayes’ theorem to calculate the posterior probability. **GAN** is the best example of a generative model, wherein the generative subnetwork generates new data points (new probability distribution) and the discriminator classifies them into real or fake. 
 
 <img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
 
@@ -48,7 +48,8 @@ These models understand how data is embedded in space. Autoencoder, Boltzmann ma
 
 <img width="475" alt="3" src="https://github.com/user-attachments/assets/98bc8638-16c8-4589-8bb5-5fc35afe03b7">
 
-Probability modeling involves the quantification of tendencies and usually addresses the real project goals. 
+
+Probability modeling involves the quantification of tendencies and usually addresses real project goals. 
 
 Read more about it here: https://www.fharrell.com/post/classification/
 
