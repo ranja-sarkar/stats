@@ -1,7 +1,5 @@
 
-All **statistical models** can be widely divided into **discriminative** and **generative** models. 
-
-Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**.
+All **statistical models** can be widely divided into **discriminative** and **generative** models. Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**.
 
 Note: P(X) and P(y) are known as prior probability and marginal probability. 
 
