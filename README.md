@@ -68,7 +68,10 @@ For more: https://en.wikipedia.org/wiki/F-test
 Read more on the first 4 moments - mean, variance, skewness, and kurtosis from this excellent blog post: https://gregorygundersen.com/blog/2020/04/11/moments/
 
 
-A violin plot shows the shape (density distribution) of data which boxplot does not, and it must be used to explore skewed data.
+A violin plot shows the shape (density distribution) of data which boxplot does not, and it must be used to explore skewed data. 
+
+https://plotly.com/python/violin/
+
 
 <img width="214" alt="vp" src="https://github.com/ranja-sarkar/stats/assets/101544669/eb349bbc-acf3-47e8-ab49-dea45666401e">
 
