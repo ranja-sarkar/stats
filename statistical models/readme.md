@@ -21,7 +21,7 @@ In unsupervised learning and/or supervised learning or in general in a statistic
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
 
 
-**Discriminative models** assume a functional form of P(y|X) and estimate the parameters from input data. Logistic regression (supervised machine learning) is perhaps the best example of a discriminative model. 
+**Discriminative models** assume a functional form of P(y|X) and estimate the response from the data using this function. Logistic regression (supervised machine learning) is perhaps the best example of a discriminative model. 
 
 <img width="477" alt="1" src="https://github.com/user-attachments/assets/0e6c1caa-c628-4be6-b34f-7bf3b06402b4">
 
