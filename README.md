@@ -99,6 +99,7 @@ They find a parameter (lambda) that best transforms a variable for example, lamb
 
 For more on SE: https://en.wikipedia.org/wiki/Standard_error
 
+**COAVRIANCE & CORRELATION**:
 
 ![image](https://user-images.githubusercontent.com/101544669/172354401-9403bc08-05e5-4316-9174-39aaf0ef1eab.png)
 
