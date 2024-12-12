@@ -1,8 +1,6 @@
 
 **Statistical package in python (pandas-based)**: https://github.com/raphaelvallat/pingouin/
 
-**Monte-Carlo Sampling**: https://machinelearningmastery.com/monte-carlo-sampling-for-probability/
-
 **MCMC**: https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
 
 
