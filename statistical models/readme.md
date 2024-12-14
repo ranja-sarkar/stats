@@ -1,5 +1,5 @@
 
-All **statistical models** can be widely divided into **discriminative** and **generative** models. Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**. 
+All **statistical models** can be broadly divided into **discriminative** and **generative** models. Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**. 
 
 <img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
@@ -24,6 +24,10 @@ In unsupervised learning and/or supervised learning or in general in a statistic
 
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
 
+The two broad categories of statistical models - generative and discriminative actually tie back to the **two cultures of statistical modeling** explained in the paper:
+https://github.com/ranja-sarkar/stats/blob/main/papers/breiman.pdf
+
+One culture assumes a given stochastic (non-deterministic) model generates data, and model parameters are estimated from the data. The other culture treats data mechanism as unknown, and uses an algorithmic model to find a function that operates on independent variables (predictors) to estimate the response or target variable.
 
 **Discriminative models** assume a functional form of P(y|X) and estimate the response from the data using this function. **Logistic regression** (supervised machine learning) is perhaps the best example of a discriminative model. Logistic regression can be considered as the linear regression of classification models. While linear regression is used to predict a continuous dependent variable (target), logistic regression discriminates between two or more classes of the target. **Support Vector Machine (SVM)** is another example. SVM has applications in both regression and classification problems. An n-dimensional space containing datapoints is divided into classes using support vectors, and the decision boundary is called a hyperplane. Other examples of discriminative models are kNN, random forest. 
 
