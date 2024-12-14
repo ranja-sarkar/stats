@@ -27,8 +27,6 @@ These models are also effective for (supervised) deep learning tasks like CNNs (
 
 **Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability (see formula below). **GAN** is a generative model which uses two submodels, the generative submodel/subnetwork generates new data points (new probability distribution) and the discriminator subnetwork classifies them into real or fake. Another example is **Bayesian Network** which uses a directed acyclic graph (DAG) to draw (probabilistic) inferences. Some other examples are Naive Bayes, hidden Markov Model (HMM), LDA (latent Dirichlet allocation). 
 
-<img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
-
 These models understand how data is embedded in space. Autoencoder, Boltzmann machine, and self-organizing maps are some (unsupervised) deep learning algorithms which make use of generative models for tasks like exploratory data analysis of high dimensional datasets, image denoising, image compression, anomaly detection and generating new images.
 
 <img width="475" alt="3" src="https://github.com/user-attachments/assets/98bc8638-16c8-4589-8bb5-5fc35afe03b7">
