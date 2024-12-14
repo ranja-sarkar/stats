@@ -29,9 +29,6 @@ These models are also effective for (supervised) deep learning tasks like CNNs (
 
 These models understand how data is embedded in space. Autoencoder, Boltzmann machine, and self-organizing maps are some (unsupervised) deep learning algorithms which make use of generative models for tasks like exploratory data analysis of high dimensional datasets, image denoising, image compression, anomaly detection and generating new images.
 
-<img width="475" alt="3" src="https://github.com/user-attachments/assets/98bc8638-16c8-4589-8bb5-5fc35afe03b7">
-
-
 Probability modeling involves the quantification of tendencies and usually addresses real project goals. 
 
 Read more about it here: https://www.fharrell.com/post/classification/
