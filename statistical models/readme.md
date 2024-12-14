@@ -25,7 +25,7 @@ Improving statistical inferences by asking the right statistical question: https
 
 These models are also effective for (supervised) deep learning tasks like CNNs (image recognition, computer vision) and RNNs (time-series analysis, NLP).  
 
-**Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability (see formula below). **GAN** is the best example of a generative model, wherein the generative subnetwork generates new data points (new probability distribution) and the discriminator classifies them into real or fake. 
+**Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability (see formula below). **GAN** is a generative model which uses two submodels, the generative submodel/subnetwork generates new data points (new probability distribution) and the discriminator subnetwork classifies them into real or fake. Another example is **Bayesian Network** which uses a directed acyclic graph (DAG) to draw (probabilistic) inferences. Some other examples are Naive Bayes, hidden Markov Model (HMM), LDA (latent Dirichlet allocation). 
 
 <img width="457" alt="2" src="https://github.com/user-attachments/assets/9a9974e9-ae88-400d-b40e-ca7269dbe3bb">
 
