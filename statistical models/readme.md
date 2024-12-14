@@ -1,10 +1,11 @@
 
-All **statistical models** can be widely divided into **discriminative** and **generative** models. Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**.
+All **statistical models** can be widely divided into **discriminative** and **generative** models. Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**. 
 
 <img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
 What is learned with a discriminative algorithm is the decision boundary, dividing the data space. What is learned with a generative algorithm is the probability distribution of data. 
 
+Probability modeling involves the quantification of tendencies and usually addresses real project goals. 
 
 There are 2 general ways to build statistical models viz., 
 
@@ -28,10 +29,4 @@ These models are also effective for (supervised) deep learning tasks like CNNs (
 **Generative models** estimate parameters from the data given a likelihood function and use the Bayes’ theorem to calculate the posterior probability (see formula below). **GAN** is a generative model which uses two submodels, the generative submodel/subnetwork generates new data points (new probability distribution) and the discriminator subnetwork classifies them into real or fake. Another example is **Bayesian Network** which uses a directed acyclic graph (DAG) to draw (probabilistic) inferences. Some other examples are Naive Bayes, hidden Markov Model (HMM), LDA (latent Dirichlet allocation). 
 
 These models understand how data is embedded in space. Autoencoder, Boltzmann machine, and self-organizing maps are some (unsupervised) deep learning algorithms which make use of generative models for tasks like exploratory data analysis of high dimensional datasets, image denoising, image compression, anomaly detection and generating new images.
-
-Probability modeling involves the quantification of tendencies and usually addresses real project goals. 
-
-Read more about it here: https://www.fharrell.com/post/classification/
-
-
 
