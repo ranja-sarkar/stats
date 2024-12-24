@@ -2,6 +2,8 @@
 
 The **law of large numbers** is a mathematical law - the average of the results obtained from a large number of independent random samples converges to the true value, if it exists. 
 More formally, the **law of large numbers** states that given a sample of independent identically distributed (iid) values, the sample mean converges to the true mean.
+The **law of large numbers** applies to the average of the results obtained from repeated (large number of) trials and claims that this average converges to the expected value.
+
 
 ✔ **Accuracy** and **precision** cannot be used interchangeably, the former being true to intention (degree of closeness of measured value to true value) while the latter is true to itself (degree of closeness of repeated measured values)
 
