@@ -1,4 +1,8 @@
-# stats
+# statistics
+
+The **law of large numbers** is a mathematical law - the average of the results obtained from a large number of independent random samples converges to the true value, if it exists. 
+More formally, the **law of large numbers** states that given a sample of independent identically distributed (iid) values, the sample mean converges to the true mean.
+
 ✔ **Accuracy** and **precision** cannot be used interchangeably, the former being true to intention (degree of closeness of measured value to true value) while the latter is true to itself (degree of closeness of repeated measured values)
 
 ✔ **Probability** and **likelihood** are different terms; the former is finding the chance of outcomes given a data distribution, the latter is finding the most likely distribution given the outcomes. 
