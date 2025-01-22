@@ -18,6 +18,9 @@ Probability modeling involves the quantification of tendencies and usually addre
 
 **The fundamentals of Bayes theorem have no opinion on which way is utilized, and can be used in both the approaches.** To know more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
+<img width="108" alt="777" src="https://github.com/user-attachments/assets/8104de23-52a0-4716-ac39-79e3de7a6f93" />
+
+
 In unsupervised learning and/or supervised learning or in general in a statistical analysis, the most influential factor is the driving question which we try to answer with our analysis.
 
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
