@@ -10,7 +10,7 @@ What is learned with a **generative algorithm** is the probability distribution 
 <img width="444" alt="2" src="https://github.com/user-attachments/assets/e1cb3a96-2102-4a12-9e78-c8969f56a5e1" />
 
 
-Probability modeling involves the quantification of tendencies and usually addresses real project goals. There are 2 general ways to build statistical models viz., 
+Probability modeling involves the quantification of tendencies and there're 2 general ways to build statistical models viz., 
 
 **i) model-based approach**, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular dataset
 
