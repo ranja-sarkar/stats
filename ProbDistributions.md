@@ -1,9 +1,4 @@
 
-**Statistical package in python (pandas-based)**: https://github.com/raphaelvallat/pingouin/
-
-**MCMC**: https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
-
-
 **DISCRETE PROBABILITY DISTRIBUTIONS**
 
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
@@ -54,3 +49,6 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 ![image](https://user-images.githubusercontent.com/101544669/172360599-7f660c2b-3818-4051-b763-a743316add2b.png)
 
 <img width="182" alt="ll" src="https://github.com/ranja-sarkar/stats/assets/101544669/4b29b83f-45b5-45b8-a9a0-3b501c3558e6">
+
+
+**Statistical package in python**: https://github.com/raphaelvallat/pingouin/
