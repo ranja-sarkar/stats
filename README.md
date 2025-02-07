@@ -101,7 +101,7 @@ They find a parameter (lambda) that best transforms a variable for example, lamb
 
 ![image](https://user-images.githubusercontent.com/101544669/172354301-b62ea3b6-bc64-4f8f-bc65-58cb7b5d5f90.png)
 
-✅It's mentionworthy that the **standard error** (SE) of a sample mean is an estimate of how far the mean is likely to be from the population mean, whereas the **standard deviation** (SD) of the sample is the degree to which individuals within the sample differ from the mean. 
+✅It's mentionworthy that the **standard error** (SE) of a sample mean is an estimate of how far the mean is likely to be away from the population mean, whereas the **standard deviation** (SD) of the sample is the degree to which individuals within the sample differ from the mean. 
 
 For more on SE: https://en.wikipedia.org/wiki/Standard_error
 
