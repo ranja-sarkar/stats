@@ -40,9 +40,6 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 
 
 
-![image](https://user-images.githubusercontent.com/101544669/172360437-79410e56-8280-4cef-a715-86d4f12c7449.png)
-
-![image](https://user-images.githubusercontent.com/101544669/172360515-38ee090f-1a75-44f8-aad8-cd12286776c1.png)
 
 **MULTIPLE LINEAR REGRESSION**
 
