@@ -39,13 +39,3 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 
 
 
-
-
-**MULTIPLE LINEAR REGRESSION**
-
-![image](https://user-images.githubusercontent.com/101544669/172360599-7f660c2b-3818-4051-b763-a743316add2b.png)
-
-<img width="182" alt="ll" src="https://github.com/ranja-sarkar/stats/assets/101544669/4b29b83f-45b5-45b8-a9a0-3b501c3558e6">
-
-
-
