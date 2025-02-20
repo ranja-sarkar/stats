@@ -38,7 +38,7 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 
 
 
-**Understanding slope, intercept and error terms in LINEAR REGRESSION**
+
 
 ![image](https://user-images.githubusercontent.com/101544669/172360437-79410e56-8280-4cef-a715-86d4f12c7449.png)
 
@@ -51,4 +51,4 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 <img width="182" alt="ll" src="https://github.com/ranja-sarkar/stats/assets/101544669/4b29b83f-45b5-45b8-a9a0-3b501c3558e6">
 
 
-**Statistical package in python**: https://github.com/raphaelvallat/pingouin/
+
