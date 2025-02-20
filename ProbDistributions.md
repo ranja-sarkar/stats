@@ -1,5 +1,5 @@
 
-**DISCRETE PROBABILITY DISTRIBUTIONS**
+⭐ **DISCRETE PROBABILITY DISTRIBUTIONS**
 
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
 1) **Bernoulli distribution** (single trial with 2 possible outcomes)
@@ -17,7 +17,7 @@
 https://mathworld.wolfram.com/PoissonDistribution.html
 
 
-**CONTINUOUS PROBABILITY DISTRIBUTIONS**
+⭐ **CONTINUOUS PROBABILITY DISTRIBUTIONS**
 
 1) **Uniform distribution** (outcomes equally likely)
 
@@ -36,6 +36,7 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 <img width="415" alt="wei" src="https://github.com/ranja-sarkar/stats/assets/101544669/ee6a54c3-e0ab-4469-be45-e847a5bbe74b">
 
 
+✅ Find more here: https://reliability.readthedocs.io/en/latest/Equations%20of%20supported%20distributions.html
 
 
 
