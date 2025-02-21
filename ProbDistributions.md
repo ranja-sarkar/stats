@@ -1,5 +1,5 @@
 
-✅ Aprt from the following, find more here: https://reliability.readthedocs.io/en/latest/Equations%20of%20supported%20distributions.html
+✅ Apart from the following distributions, find some others here: https://reliability.readthedocs.io/en/latest/Equations%20of%20supported%20distributions.html
 
 ⭐ **DISCRETE PROBABILITY DISTRIBUTIONS**
 
