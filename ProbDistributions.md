@@ -1,4 +1,6 @@
 
+✅ Aprt from the following, find more here: https://reliability.readthedocs.io/en/latest/Equations%20of%20supported%20distributions.html
+
 ⭐ **DISCRETE PROBABILITY DISTRIBUTIONS**
 
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
@@ -31,12 +33,15 @@ https://mathworld.wolfram.com/PoissonDistribution.html
 3) **Exponential distribution** (continuous and independent events in a time interval)
 ![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
 
-4) **Weibull distribution** 
+4) **Weibull distribution**
+   [Courtesy: Wikipedia]
+   
 <img width="229" alt="weibull" src="https://github.com/ranja-sarkar/stats/assets/101544669/baf9a393-abb5-4c16-a979-33ff9df3e1ee">
+
 <img width="415" alt="wei" src="https://github.com/ranja-sarkar/stats/assets/101544669/ee6a54c3-e0ab-4469-be45-e847a5bbe74b">
 
 
-✅ Find more here: https://reliability.readthedocs.io/en/latest/Equations%20of%20supported%20distributions.html
+
 
 
 
