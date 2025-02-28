@@ -1,4 +1,4 @@
-# statistics
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/b1ba544c-69f0-4757-9ea6-dd4bdc4b4d38" /># statistics
 
 The **law of large numbers** is a mathematical law - the average of the results obtained from a large number of independent random samples converges to the true value, if it exists. 
 More formally, the **law of large numbers** states that given a sample of independent identically distributed (iid) values, the sample mean converges to the true mean.
@@ -9,6 +9,7 @@ The **law of large numbers** applies to the average of the results obtained from
 
 ✔ **Probability** and **likelihood** are different terms; the former is finding the chance of outcomes given a data distribution, the latter is finding the most likely distribution given the outcomes. 
 
+Since likelihood is not probability, one can obtain likelihood greater than 1. Even given this, it may be helpful to conceptually think of likelihood as the "probability of the data given the parameters".
 
 **DESCRIPTIVE STATISTICS**: For inference of (smaller) sample data
 
