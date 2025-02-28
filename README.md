@@ -23,6 +23,8 @@ The normality assumption is vital for parametric hypothesis tests of the mean. C
 
 The 'precision of estimates' property of CLT becomes relevant when using a sample to estimate the mean of an entire population. With a larger sample size, your sample mean is more likely to be close to the real population mean. In other words, your estimate is more precise.
 
+**STATISTICAL TESTS**:
+
 Depending on your goal and the data, you select a **test**.
 
 If the goal is to quantify an association between two groups, we check **Pearson correlation** for parametric data, **Spearman correlation** for non-parametric data.
@@ -31,7 +33,9 @@ If we have to compare unpaired (independent) groups, we perform unpaired **T-tes
 
 **Parametric test**:-
 
-Assumption: Data has normal distribution <https://en.wikipedia.org/wiki/Normal_distribution>
+Assumption: Data has normal distribution 
+
+<https://en.wikipedia.org/wiki/Normal_distribution>
 
 ![image](https://user-images.githubusercontent.com/101544669/172365078-9c820e5f-6a23-4d56-acc3-2ee9df161792.png)
 
@@ -43,20 +47,24 @@ No assumption
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
 
-**HYPOTHESIS TESTS**: 
-Depending on datatypes and number of samples, hypothesis testing is carried out. 
+Depending on datatypes and number of samples, a **hypothesis test** is carried out. 
 
-Traditional testing is called Non-Bayesian. It is how often an outcome happens over repeated runs (repeat sampling) of the experiment. It’s an objective view of whether an experiment is repeatable.
+Traditional testing is called non-Bayesian. It is how often an outcome happens over repeated runs (repeat sampling) of the experiment. It’s an objective view of whether an experiment is repeatable. 
+
 **Bayesian hypothesis testing** is a subjective view of the same - it takes into account how much faith you have in your results. It includes prior knowledge about the data and personal beliefs about the results.
 
 
 <img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
 
-There's a data classification based on privacy, security, risk management and regulatory compliance: public, confidential, restricted and internal. 
-
 For more: https://en.wikipedia.org/wiki/F-test
           https://en.wikipedia.org/wiki/Analysis_of_variance
 
+
+**Data classification** based on privacy, security, risk management and regulatory compliance:-
+- public
+- confidential
+- restricted
+- internal 
 
 **MEASURES OF CENTRAL TENDENCY**
 ![data](https://user-images.githubusercontent.com/101544669/172350887-e9527614-3737-4ad0-99af-868333c2f6aa.png)
