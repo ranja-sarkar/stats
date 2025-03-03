@@ -20,7 +20,7 @@ Probability modeling involves the quantification of tendencies and there're 2 ge
 
 <img width="108" alt="777" src="https://github.com/user-attachments/assets/8104de23-52a0-4716-ac39-79e3de7a6f93" />
 
-The denominator in posterior (ratio) is the evidence/data avaiable to us. 
+The denominator in posterior (ratio) is the evidence/data available to us. 
 
 In unsupervised and supervised learnings or in general in a statistical analysis, the most influential factor is the driving question which we try to answer with our analysis.
 
