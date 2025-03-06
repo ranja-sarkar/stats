@@ -50,7 +50,7 @@ No assumption
 
 Depending on datatypes and number of samples, a **hypothesis test** is carried out. 
 
-Traditional testing is called non-Bayesian. It is how often an outcome happens over repeated runs (repeat sampling) of the experiment. It’s an objective view of whether an experiment is repeatable. 
+Traditional testing is non-Bayesian. It is how often an outcome happens over repeated runs (repeat sampling) of the experiment. It’s an objective view of whether an experiment is repeatable. 
 
 **Bayesian hypothesis testing** is a subjective view of the same - it takes into account how much faith you have in your results. It includes prior knowledge about the data and personal beliefs about the results.
 
