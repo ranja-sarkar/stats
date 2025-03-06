@@ -1,11 +1,10 @@
 
-All **statistical models** can be broadly divided into **discriminative** and **generative** models. Discriminative models leverage **conditional probability distributions** while generative ones leverage **non-conditional (joint) distributions**. 
+<img width="401" alt="sms" src="https://github.com/user-attachments/assets/b90edf97-2679-4e33-bbe8-30c0ef11f9d3" />
 
-<img width="232" alt="mod" src="https://github.com/ranja-sarkar/stats/assets/101544669/64651d9a-486f-49ae-91a9-7b3749bdf42b">
 
-What is learned with a **discriminative algorithm** is the decision boundary, dividing the data space. 
+What is learned with a **discriminative algorithm** leveraging conditional probability distribution is the decision boundary, dividing the data space. 
 
-What is learned with a **generative algorithm** is the probability distribution of data. 
+What is learned with a **generative algorithm** leveraging joint probability distribution is the probability distribution of data. 
 
 <img width="444" alt="2" src="https://github.com/user-attachments/assets/e1cb3a96-2102-4a12-9e78-c8969f56a5e1" />
 
