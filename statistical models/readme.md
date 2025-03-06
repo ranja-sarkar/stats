@@ -9,17 +9,20 @@ What is learned with a **generative algorithm** leveraging joint probability dis
 <img width="444" alt="2" src="https://github.com/user-attachments/assets/e1cb3a96-2102-4a12-9e78-c8969f56a5e1" />
 
 
-Probability modeling involves the quantification of tendencies and there're 2 general ways to build statistical models viz., 
+Probability modeling involves the quantification of tendencies and there're 2 general ways to build statistical models.  
 
-**i) model-based approach**, where the parameters of interest are intended to capture important and interpretable features of the generating process, separated from the (accidental) features of the particular dataset
+**i) model-based approach** (algorithmic model), where the parameters of interest are intended to capture important & interpretable features of the data generating mechanism, separated from the (accidental) features of the particular dataset
 
-**ii) design-based approach**, where the probability calculations are based on the randomization used in the investigation or experiment. 
+**ii) design-based approach** (hypothesis test), where the probability calculations are based on the randomization used in the investigation or experiment. 
 
 **The fundamentals of Bayes theorem have no opinion on which way is utilized, and can be used in both the approaches.** To know more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
+<img width="565" alt="msm" src="https://github.com/user-attachments/assets/96e06c80-8ed5-4f5c-b01e-29e7a8b87178" />
+
+
 <img width="108" alt="777" src="https://github.com/user-attachments/assets/8104de23-52a0-4716-ac39-79e3de7a6f93" />
 
-The denominator in posterior (ratio) is the evidence/data available to us. 
+where, the denominator in posterior (ratio) is the evidence/data available to us. 
 
 In unsupervised and supervised learnings or in general in a statistical analysis, the most influential factor is the driving question which we try to answer with our analysis.
 
