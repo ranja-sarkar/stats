@@ -24,9 +24,13 @@ Probability modeling involves the quantification of tendencies and there're 2 ge
 
 where, the denominator in posterior (ratio) is the evidence/data available to us. 
 
+-----
+
 In unsupervised and supervised learnings or in general in a statistical analysis, the most influential factor is the driving question which we try to answer with our analysis.
 
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
+
+-----
 
 The two broad categories of statistical models - generative and discriminative actually tie back to the **two cultures of statistical modeling** explained in the paper:
 https://github.com/ranja-sarkar/stats/blob/main/papers/breiman.pdf
