@@ -48,7 +48,20 @@ No assumption
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
 
-Depending on datatypes and number of samples, a **hypothesis test** is carried out. 
+Depending on your goal of data analysis, ask which measure and test to select.
+
+📌Visualize data - scatter plot is perhaps the best to understand which measure (like correlation coefficient) to use for your data.
+
+The plot helps 
+- identify linear, nonlinear relationships between variables
+- spot outliers if any, which may influence the correlation
+
+📌Post visualisation, choose the test in accordance with data type & size. 
+
+<img width="375" alt="cc" src="https://github.com/user-attachments/assets/6d03b4d8-8d83-44b5-b77a-13645ccf85fe" />
+
+
+📌 Depending on datatypes and number of samples, a **hypothesis test** is carried out. 
 
 Traditional testing is non-Bayesian. It is how often an outcome happens over repeated runs (repeat sampling) of the experiment. It’s an objective view of whether an experiment is repeatable. 
 
@@ -57,7 +70,8 @@ Traditional testing is non-Bayesian. It is how often an outcome happens over rep
 
 <img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
 
-For more: https://en.wikipedia.org/wiki/F-test
+
+**ANOVA**: https://en.wikipedia.org/wiki/F-test
           https://en.wikipedia.org/wiki/Analysis_of_variance
 
 
