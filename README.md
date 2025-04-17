@@ -28,8 +28,11 @@ The 'precision of estimates' property of CLT becomes relevant when using a sampl
 
 Depending on your goal and the data, you select a **test**.
 
-If the goal is to quantify an association between two groups, we check **Pearson correlation** for parametric data, **Spearman correlation** for non-parametric data.
+If the goal is to quantify an association between two groups, we check **Pearson correlation** for parametric data, **Spearman correlation** for non-parametric data. 
+
 If the goal is to predict a target from one or more variables, we perform **simple regression** (two variables) and **multiple regression** (more than two variables) for parametric data. 
+T-tests are used to measure whether a given cofficient/weight is significantly different than zero (null hypothesis that a particular coefficient equals zero), while F-tests are used to measure whether any of the terms in a regression model are significantly different from zero. 
+
 If we have to compare unpaired (independent) groups, we perform unpaired **T-test** (or one-way **ANOVA** for 2+ groups) for parametric data, and **Mann-Whitney test** (2 groups) for non-parametric data. 
 
 **Parametric test**:-
