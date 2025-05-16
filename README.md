@@ -29,6 +29,7 @@ The 'precision of estimates' property of CLT becomes relevant when using a sampl
 Depending on your goal and the data, you select a **test**.
 
 If the goal is to quantify an association between two groups, we check **Pearson correlation** for parametric data, **Spearman correlation** for non-parametric data. 
+📌 Difference between association and interaction: https://www.theanalysisfactor.com/interaction-association/
 
 If the goal is to predict a target from one or more variables, we perform **simple regression** (two variables) and **multiple regression** (more than two variables) for parametric data. 
 
