@@ -36,7 +36,8 @@ If the goal is to predict a target from one or more variables, we perform **simp
 
 T-tests are used to measure whether a given cofficient/weight is significantly different than zero (null hypothesis that a particular coefficient equals zero).
 
-If we have to compare unpaired (independent) groups, we perform unpaired **T-test** (or one-way **ANOVA** for 2+ groups) for parametric data, and **Mann-Whitney test** (2 groups) for non-parametric data. 
+If we have to compare unpaired (independent) groups, we perform unpaired **T-test** for parametric data, and **Mann-Whitney test** for non-parametric data. 
+📌 https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html
 
 📌 ANOVA nad linear regression are the same, just the results of the analyses are presented in different ways.
 https://www.linkedin.com/pulse/why-anova-linear-regression-same-analysis-the-analysis-factor-llc-tn8ff
