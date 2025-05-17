@@ -39,10 +39,10 @@ T-tests are used to measure whether a given cofficient/weight is significantly d
 If we have to compare unpaired (independent) groups, we perform unpaired **T-test** for parametric data, and **Mann-Whitney test** for non-parametric data. 
 📌 https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html
 
-📌 ANOVA nad linear regression are the same, just the results of the analyses are presented in different ways.
+📌 ANOVA and linear regression are the same, just the results of the analyses are presented in different ways.
 https://www.linkedin.com/pulse/why-anova-linear-regression-same-analysis-the-analysis-factor-llc-tn8ff
 
-**Parametric test**:-
+**PARAMETRIC TEST**
 
 Assumption: Data has normal distribution 
 
@@ -51,7 +51,7 @@ Assumption: Data has normal distribution
 ![image](https://user-images.githubusercontent.com/101544669/172365078-9c820e5f-6a23-4d56-acc3-2ee9df161792.png)
 
 
-**Non-parametric test**:-
+**NON-PARAMETRIC TEST**
 
 No assumption
 
