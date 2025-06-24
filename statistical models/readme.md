@@ -46,11 +46,6 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/breiman.pdf
 <img width="455" alt="bb" src="https://github.com/user-attachments/assets/ddc7ca65-9e17-4608-9e86-ac6ae5683818" />
 
 
-Another example is **Bayesian Network** which uses a directed acyclic graph (DAG) to draw (probabilistic) inferences. 
-
-![DAG](https://github.com/user-attachments/assets/76849f9a-74c9-4680-b937-87b875622e34)
-
-
-Some others are Naive Bayes, hidden Markov Model (HMM), LDA (latent Dirichlet allocation). These models understand how data is embedded in space. Autoencoder, Boltzmann machine, and self-organizing maps are some (unsupervised) deep learning algorithms which make use of generative models for tasks like exploratory analysis of high dimensional datasets, image denoising, image compression, anomaly detection, and generating new images.
+Another example is **Bayesian Network** which uses a directed acyclic graph (DAG) to draw (probabilistic) inferences. Some others are Naive Bayes, hidden Markov Model (HMM), LDA (latent Dirichlet allocation). These models understand how data is embedded in space. Autoencoder, Boltzmann machine, and self-organizing maps are some (unsupervised) deep learning algorithms which make use of generative models for tasks like exploratory analysis of high dimensional datasets, image denoising, image compression, anomaly detection, and generating images.
 
 
