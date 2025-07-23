@@ -77,6 +77,7 @@ Traditional testing is non-Bayesian. It is how often an outcome happens over rep
 
 **Bayesian hypothesis testing** is a subjective view of the same - it takes into account how much faith you have in your results. It includes prior knowledge about the data and personal beliefs about the results.
 
+💡 In the Bayesian framework, we start with a belief (prior). We strengthen/weaken the prior with each evidence/datapoint that is, we update the belief to a degree. The updated belief is posterior.
 
 <img width="493" alt="0" src="https://github.com/ranja-sarkar/stats/assets/101544669/d947dc46-e799-4647-af50-2da545412af9">
 
