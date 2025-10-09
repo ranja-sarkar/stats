@@ -1,13 +1,4 @@
 
-<img width="401" alt="sms" src="https://github.com/user-attachments/assets/b90edf97-2679-4e33-bbe8-30c0ef11f9d3" />
-
-
-What is learned with a **discriminative algorithm** leveraging conditional probability distribution is the decision boundary, dividing the data space. 
-
-What is learned with a **generative algorithm** leveraging joint probability distribution is the probability distribution of data. 
-
-<img width="444" alt="2" src="https://github.com/user-attachments/assets/e1cb3a96-2102-4a12-9e78-c8969f56a5e1" />
-
 
 Probability modeling involves the quantification of tendencies and there're 2 general ways to build statistical models.  
 
