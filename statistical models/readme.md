@@ -1,10 +1,5 @@
 
 
-Probability modeling involves the quantification of tendencies and there're 2 general ways to build statistical models.  
-
-**i) model-based approach** (algorithmic model), where the parameters of interest are intended to capture important & interpretable features of the data generating mechanism, separated from the (accidental) features of the particular dataset
-
-**ii) design-based approach** (hypothesis test), where the probability calculations are based on the randomization used in the investigation or experiment. 
 
 <img width="565" alt="msm" src="https://github.com/user-attachments/assets/96e06c80-8ed5-4f5c-b01e-29e7a8b87178" />
 
