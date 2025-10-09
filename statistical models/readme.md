@@ -1,11 +1,6 @@
 
 
 
-<img width="565" alt="msm" src="https://github.com/user-attachments/assets/96e06c80-8ed5-4f5c-b01e-29e7a8b87178" />
-
-
-
-In unsupervised and supervised learnings or in general in a statistical analysis, the most influential factor is the driving question which we try to answer with our analysis.
 
 Improving statistical inferences by asking the right statistical question: https://lakens.github.io/statistical_inferences/05-questions.html
 
