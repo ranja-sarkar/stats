@@ -3,14 +3,7 @@
 
 <img width="565" alt="msm" src="https://github.com/user-attachments/assets/96e06c80-8ed5-4f5c-b01e-29e7a8b87178" />
 
-**The fundamentals of Bayes theorem have no opinion on which way is utilized, and can be used in both the approaches.** To know more, please read this book chapter: https://bayesiancomputationbook.com/markdown/chp_09.html
 
-
-<img width="108" alt="777" src="https://github.com/user-attachments/assets/8104de23-52a0-4716-ac39-79e3de7a6f93" />
-
-where, the denominator in posterior (ratio) is the evidence/data available to us. 
-
------
 
 In unsupervised and supervised learnings or in general in a statistical analysis, the most influential factor is the driving question which we try to answer with our analysis.
 
