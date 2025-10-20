@@ -158,6 +158,8 @@ For more on SE: https://en.wikipedia.org/wiki/Standard_error
 ![image](https://user-images.githubusercontent.com/101544669/172354769-82567b68-536e-449a-9733-3e1b4ab6c90c.png)
 
 
+Correlation and covariance matrices: https://www.theanalysisfactor.com/covariance-matrices/
+
 ---
 
 
