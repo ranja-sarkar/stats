@@ -124,9 +124,11 @@ https://plotly.com/python/violin/
 <img width="214" alt="vp" src="https://github.com/ranja-sarkar/stats/assets/101544669/eb349bbc-acf3-47e8-ab49-dea45666401e">
 
 
-There are **power transformations** that variables need to undergo if they follow either right-skewed or left-skewed distributions. Parametric machine learning models like linear regression assume real-valued variables in the input data have Gaussian distributions. Non-parametric models like kNN do not have this assumption, yet often are more reliable and perform better when the input variables have Gaussian distributions. As such, variables with skewed distributions (Gaussian-like) or different distributions altogether need transformation. Power transforms refer to a class of techniques utilizing a power function (like logarithm or exponent) to make the probability distribution of a variable Gaussian. 
+There are **power transformations** that variables need to undergo if they follow either right-skewed or left-skewed distributions. Parametric machine learning models like linear regression assume real-valued variables in the input data have Gaussian distributions. Non-parametric models like kNN do not have this assumption, yet often are more reliable and perform better when the input variables have Gaussian distributions. As such, variables with skewed distributions (Gaussian-like) or different distributions altogether need transformation. 
 
 Gaussian (normal) distribution: https://ranjas.substack.com/p/why-the-gaussian
+
+Power transforms refer to a class of techniques utilizing a power function (like logarithm or exponent) to make the probability distribution of a variable Gaussian. 
 
 There're 2 popular approaches for automatic power transforms:
 
@@ -146,7 +148,7 @@ Variance stabilizing transformations: https://feature-engine.trainindata.com/en/
   
 2. Quartile deviation
   
-3. Interquartile range (quartile deviation is half of the interquartile range)
+3. Interquartile range (quartile deviation is half of the interquartile range) -> boxplots visually represent this range
 
 4. Variance
   
