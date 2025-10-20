@@ -111,7 +111,6 @@ https://en.wikipedia.org/wiki/Analysis_of_variance
 **Median**: Middle number/value when a dataset is ordered from least to greatest.
 
 ![image](https://user-images.githubusercontent.com/101544669/172351874-c889ca8b-c52b-493d-bebe-9e19ca12820e.png)
-
 ![image](https://user-images.githubusercontent.com/101544669/172352049-a691a986-560c-42fe-bae3-cd4fa899a38f.png)
 
 Read more on the first 4 moments - mean, variance, skewness, and kurtosis from this excellent blog post: https://gregorygundersen.com/blog/2020/04/11/moments/
@@ -138,8 +137,17 @@ They find a parameter (lambda) that best transforms a variable for example, lamb
 
 -----
 
-**MEASURES OF DISPERSION**: Range, quartile deviation and interquartile range (quartile deviation is half of the interquartile range),
-			variance, standard deviation
+**MEASURES OF DISPERSION**: 
+
+1. Range
+  
+2. Quartile deviation
+  
+3. interquartile range (quartile deviation is half of the interquartile range)
+
+4. Vaariance
+  
+5. Standard deviation
 			
 ![image](https://user-images.githubusercontent.com/101544669/172353525-d1b2bcf0-ff6c-42bc-99e6-db6c3edb1e2f.png)
 
