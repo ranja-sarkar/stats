@@ -24,6 +24,8 @@ The normality assumption is vital for parametric hypothesis tests of the mean. C
 
 The 'precision of estimates' property of CLT becomes relevant when using a sample to estimate the mean of an entire population. With a larger sample size, your sample mean is more likely to be close to the real population mean. In other words, your estimate is more precise.
 
+---
+
 **STATISTICAL TESTS**:
 
 Depending on your goal and the data, you select a **test**.
@@ -58,7 +60,10 @@ No assumption
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
 
-Depending on your goal of data analysis, ask which measure and test to select.
+Depending on your goal of data analysis, ask which measure and test to select. 
+
+----
+
 
 📌Visualize data - scatter plot is perhaps the best to understand which measure (like correlation coefficient) to use for your data.
 
@@ -83,16 +88,20 @@ Traditional testing is non-Bayesian. It is how often an outcome happens over rep
 
 
 **ANOVA**: https://en.wikipedia.org/wiki/F-test
-          https://en.wikipedia.org/wiki/Analysis_of_variance
+
+https://en.wikipedia.org/wiki/Analysis_of_variance
 
 
 **Data classification** based on privacy, security, risk management and regulatory compliance:-
-- public
+- public/external
 - confidential
 - restricted
 - internal 
 
+----
+
 **MEASURES OF CENTRAL TENDENCY**
+
 ![data](https://user-images.githubusercontent.com/101544669/172350887-e9527614-3737-4ad0-99af-868333c2f6aa.png)
 
 ![image](https://user-images.githubusercontent.com/101544669/172351517-74e016c6-709e-47b4-bf01-299afad8e25f.png)
@@ -127,6 +136,7 @@ There're 2 popular approaches for automatic power transforms:
 
 They find a parameter (lambda) that best transforms a variable for example, lambda = -1 is a reciprocal transform, lambda = 0 is a log transform, lambda = 0.5 is a square root transform.
 
+-----
 
 **MEASURES OF DISPERSION**: Range, quartile deviation and interquartile range (quartile deviation is half of the interquartile range),
 			variance, standard deviation
@@ -139,6 +149,8 @@ They find a parameter (lambda) that best transforms a variable for example, lamb
 
 For more on SE: https://en.wikipedia.org/wiki/Standard_error
 
+----
+
 **COVARIANCE & CORRELATION**:
 
 ![image](https://user-images.githubusercontent.com/101544669/172354401-9403bc08-05e5-4316-9174-39aaf0ef1eab.png)
@@ -146,5 +158,6 @@ For more on SE: https://en.wikipedia.org/wiki/Standard_error
 ![image](https://user-images.githubusercontent.com/101544669/172354769-82567b68-536e-449a-9733-3e1b4ab6c90c.png)
 
 
+---
 
 
