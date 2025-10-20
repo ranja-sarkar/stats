@@ -131,9 +131,12 @@ Gaussian (normal) distribution: https://ranjas.substack.com/p/why-the-gaussian
 There're 2 popular approaches for automatic power transforms:
 
 •	Box-Cox Transform
+
 •	Yeo-Johnson Transform 
 
 They find a parameter (lambda) that best transforms a variable for example, lambda = -1 is a reciprocal transform, lambda = 0 is a log transform, lambda = 0.5 is a square root transform.
+
+Variance stabilizing transformations: https://feature-engine.trainindata.com/en/latest/user_guide/transformation/
 
 -----
 
@@ -143,9 +146,9 @@ They find a parameter (lambda) that best transforms a variable for example, lamb
   
 2. Quartile deviation
   
-3. interquartile range (quartile deviation is half of the interquartile range)
+3. Interquartile range (quartile deviation is half of the interquartile range)
 
-4. Vaariance
+4. Variance
   
 5. Standard deviation
 			
