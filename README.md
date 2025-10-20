@@ -46,7 +46,7 @@ https://www.linkedin.com/pulse/why-anova-linear-regression-same-analysis-the-ana
 
 **PARAMETRIC TEST**
 
-Assumption: Data has normal distribution 
+Data has normal distribution is the assumption. 
 
 <https://en.wikipedia.org/wiki/Normal_distribution>
 
@@ -55,7 +55,7 @@ Assumption: Data has normal distribution
 
 **NON-PARAMETRIC TEST**
 
-No assumption
+No assumption!
 
 ![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
