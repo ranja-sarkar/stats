@@ -170,6 +170,9 @@ For more on SE: https://en.wikipedia.org/wiki/Standard_error
 
 ![image](https://user-images.githubusercontent.com/101544669/172354401-9403bc08-05e5-4316-9174-39aaf0ef1eab.png)
 
+Correlation is not only a measure of how two variables move wrt each other, but also how strong their movements are.
+
+
 ![image](https://user-images.githubusercontent.com/101544669/172354769-82567b68-536e-449a-9733-3e1b4ab6c90c.png)
 
 
