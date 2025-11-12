@@ -156,6 +156,8 @@ Variance stabilizing transformations: https://feature-engine.trainindata.com/en/
 			
 ![image](https://user-images.githubusercontent.com/101544669/172353525-d1b2bcf0-ff6c-42bc-99e6-db6c3edb1e2f.png)
 
+Covariance is a measure of how two variables move wrt each other.
+
 ![image](https://user-images.githubusercontent.com/101544669/172354301-b62ea3b6-bc64-4f8f-bc65-58cb7b5d5f90.png)
 
 ✅It's mentionworthy that the **standard error** (SE) of a sample mean is an estimate of how far the mean is likely to be away from the population mean, whereas the **standard deviation** (SD) of the sample is the degree to which individuals within the sample differ from the mean. 
